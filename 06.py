@@ -1,3 +1,3 @@
 A=[]
 A=input().split()
-print(*A,sep=" "
+print(*A,sep=" ")
