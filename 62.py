@@ -4,7 +4,7 @@ if a%2!=0:
 else:
 	B=True
 	for i in range(2,a):
-		if a%1==0 and int(a/i)%2!=0:
+		if a%i==0 and int(a/i)%2!=0:
 			b=False
 			print(i)
 			break
