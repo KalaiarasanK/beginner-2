@@ -1,4 +1,4 @@
-a=int(input())
-b=list(map(int,input().split()))
-c=min(b)
-print(c)
+A=int(input())
+B=list(map(int,input().split()))
+C=min(B)
+print(C)
